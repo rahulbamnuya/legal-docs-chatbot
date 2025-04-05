@@ -16,15 +16,15 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 ### 📝 Input Screen
 Upload your `.pdf` or `.txt` legal document and ask your question.
 
-![Input Screen](Screenshot%20(59).png)
 
+![Input Screen](assets/Screenshot57.png)
 
 ---
 
 ### 📤 Output Screen
 Get AI-generated context-aware answers based on your document.
 
-![Output Screen](Screenshot%20(60).png)
+![Output Screen](assets/Screenshot58.png)
 
 ## ✨ Features
 
