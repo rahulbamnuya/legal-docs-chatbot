@@ -4,9 +4,11 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 
 ---
 
-## 🎥 Demo
 
-[🔗 Watch Demo Video]([https://your-demo-video-link.com](https://github.com/rahulbamnuya/legal-docs-chatbot/blob/main/assets/app.py%20-%20local-law-assistant%20-%20Visual%20Studio%20Code%202025-04-05%2023-14-37.mp4))  
+## 🎥 Demo Video
+
+[▶️ Watch Demo Video](assets/demo-video.mp4)
+  
 
 *👉 Upload a document, ask a question, and get legal context-based answers within seconds.*
 
