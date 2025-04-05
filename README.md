@@ -7,11 +7,23 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 ## 🎥 Demo
 
 [🔗 Watch Demo Video](https://your-demo-video-link.com)  
-![Documents uploading](image-url-or-path)
-![Output](assets/screenshot.png)
+
 *👉 Upload a document, ask a question, and get legal context-based answers within seconds.*
 
 ---
+## 📸 Screenshots
+
+### 📝 Input Screen
+Upload your `.pdf` or `.txt` legal document and ask your question.
+
+![Input Screen](Screenshot (60).png)
+
+---
+
+### 📤 Output Screen
+Get AI-generated context-aware answers based on your document.
+
+![Output Screen](Screenshot (59).png)
 
 ## ✨ Features
 
