@@ -24,8 +24,8 @@ Upload your `.pdf` or `.txt` legal document and ask your question.
 
 ### 📤 Output Screen
 Get AI-generated context-aware answers based on your document.
+![Input Screenshot](assets/Screenshot%20%2858%29.png "Output UI")
 
-![Output Screen](assets/Screenshot (57).png)
 
 ## ✨ Features
 
