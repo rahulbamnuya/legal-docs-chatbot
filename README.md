@@ -17,14 +17,14 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 Upload your `.pdf` or `.txt` legal document and ask your question.
 
 
-![Input Screen](assets/Screenshot57.png)
+![Input Screen](assets/Screenshot (57).png)
 
 ---
 
 ### 📤 Output Screen
 Get AI-generated context-aware answers based on your document.
 
-![Output Screen](assets/Screenshot58.png)
+![Output Screen](assets/Screenshot (58).png)
 
 ## ✨ Features
 
