@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+huggingface_hub
+pdfplumber
+PyMuPDF
+faiss-cpu
+scikit-learn
+sentence-transformers
