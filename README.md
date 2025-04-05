@@ -16,7 +16,7 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 ### 📝 Input Screen
 Upload your `.pdf` or `.txt` legal document and ask your question.
 
-![Input Screenshot](assets/Screenshot (57).png "Input UI")
+![Input Screenshot](assets/Screenshot%20%2857%29.png "Input UI")
 
 
 
