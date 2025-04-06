@@ -7,7 +7,8 @@ A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo Video](assets/demo.mp4)
+[![Watch the demo](https://via.placeholder.com/640x360.png?text=Demo+Video)](assets/demo.mp4)
+
   
 
 *👉 Upload a document, ask a question, and get legal context-based answers within seconds.*
