@@ -9,6 +9,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 texts = []
 index = None
 
+
 def extract_text(file_path):
     ext = file_path.suffix.lower()
     if ext == '.pdf':
@@ -22,6 +23,7 @@ def extract_text(file_path):
     else:
         return ""
 
+
 def load_and_embed_docs(folder="law_docs"):
     global texts, index
     texts = []
@@ -29,13 +31,14 @@ def load_and_embed_docs(folder="law_docs"):
 
     for file in Path(folder).glob("*.*"):
         content = extract_text(file)
-        chunks = [content[i:i+500] for i in range(0, len(content), 500)]
+        chunks = [content[i:i + 500] for i in range(0, len(content), 500)]
         texts.extend(chunks)
         all_chunks.extend(chunks)
 
     embeddings = model.encode(all_chunks)
     index = faiss.IndexFlatL2(embeddings[0].shape[0])
     index.add(np.array(embeddings))
+
 
 def retrieve_chunks(query, k=3):
     q_embed = model.encode([query])
